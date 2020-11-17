@@ -1,2 +1,2 @@
 # OpenAnimGC
-Animation system programming 
+
